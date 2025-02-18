@@ -1,0 +1,1 @@
+#Ex 02: faça um programa que solicite ao usuário para digitar o seu nome e um número qualquer e em seguida seu nome de acordo com o número que ele digitou.
