@@ -3,6 +3,6 @@ nome = input("Digite seu nome: ")
 num = int(input("Digite um numero: "))
 i = 0
 for i in range(num):
-    input(nome)
+    print(nome)
 print("Programa finalizado.")
 print("Ana Clara De Souza")

@@ -2,9 +2,11 @@
 #exiba o nome dele esse número de vezes; caso contrário, exiba a mensagem “Numero muito alto" três vezes.
 
 nome = input("Digite seu nome: ")
-num = int(input("Digite um numero: "))
+num = int(input("Digite um numero abaixo de 10: "))
 if num  < 10:
     for i in range(num):
         print(nome)
 else:
     print("numero muito alto")
+print("Programa finalizado.")
+print("Ana Clara De Souza")

@@ -4,3 +4,5 @@ num = int(input("Digite um numero: "))
 for i in range(num):
     for letra in nome:
         print(letra)
+print("Programa finalizado.")
+print("Ana Clara De Souza")
