@@ -7,6 +7,7 @@ if num  < 10:
     for i in range(num):
         print(nome)
 else:
-    print("numero muito alto")
+    for i in range(3):
+        print("numero muito alto")
 print("Programa finalizado.")
 print("Ana Clara De Souza")
