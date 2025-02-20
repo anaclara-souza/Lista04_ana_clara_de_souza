@@ -6,3 +6,4 @@
 # 1.	Solicite ao usuário o número de tarefas a serem inseridas.
 # 2.	Para cada tarefa, solicite o nome da tarefa e se ela está concluída (aceitando "sim", "s", "não" ou "n").
 # 3.	Conte e exiba o número de tarefas concluídas e não concluídas.
+

@@ -6,6 +6,17 @@
 dire = input("Contar para cima(C), ou para baixo (A) :").upper()
 
 if dire == "C":
-    for i in range(1, int(input("numero superior :")) + 1):
+    for i in range(1, int(input("Digite um numero superior a 20 :")) + 1):
         print(i)
-        
+elif dire == "A":
+    num = int(input("Digite um numero abaixo que 20:"))
+    if num < 20:
+        for i in range(20, num -1,-1):
+            print(i)
+    else:
+        print("numero invalido!!")
+else:
+    print("Direçao invalida")
+
+print("Programa finalizado.")
+print("Ana Clara De Souza")
